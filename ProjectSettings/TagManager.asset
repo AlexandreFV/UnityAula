@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - "Ch\xE3o"
+  - ParedesObjetos
+  - Personagem
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: "Ch\xE3o"
+    uniqueID: 7819449
+    locked: 0
+  - name: ObjetosSolidos
+    uniqueID: 3236817883
+    locked: 0
+  - name: Parede
+    uniqueID: 1515548827
+    locked: 0
+  - name: Personagem
+    uniqueID: 3886738329
     locked: 0
