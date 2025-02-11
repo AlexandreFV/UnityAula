@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cenario.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cenario2.unity
+    guid: b8373eba94ff56249a91c72cba36b656
+  - enabled: 1
+    path: Assets/Scenes/Minigame.unity
+    guid: 8bed3ed6d0e7ada468398ef95058beb7
   m_configObjects: {}

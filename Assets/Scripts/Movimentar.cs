@@ -45,7 +45,7 @@ public class Movimentar : MonoBehaviour
         Vector2 movimento = new Vector2(moveX, moveY).normalized * Speed;
 
         // Aplica o movimento ao Rigidbody2D
-        rb.velocity = movimento;
+        rb.linearVelocity = movimento;
 
         // Atualiza os parâmetros do Animator
         animator.SetFloat("moveX", lastMoveX); // Usando as últimas direções armazenadas
